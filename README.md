@@ -1,11 +1,4 @@
 
-
-https://github.com/user-attachments/assets/f973721b-55df-40c5-a6d4-5f27f2a88da7
-
-
-
-https://github.com/user-attachments/assets/c873c555-69c9-441f-924f-d42481af7654
-
 # ESP32 Smart Touchless Water Dispenser
 
 Hands-free water dispenser controlled by an ultrasonic gesture sensor, with a 16x2 LCD status display and a Wi-Fi web portal for calibration, statistics, and remote control.
@@ -48,7 +41,7 @@ Hands-free water dispenser controlled by an ultrasonic gesture sensor, with a 16
 
 | Web UI & Calibration Portal | Physical Gestures & Dispensing |
 | :---: | :---: |
-| <video src="WebUI%20Demo.mp4" controls width="100%" poster="docs/assets/webui_thumb.jpg">Your browser does not support the video tag. <a href="WebUI%20Demo.mp4">Download WebUI Demo</a></video> | <video src="Project%20Live%20Demo.mp4" controls width="100%" poster="docs/assets/livedemo_thumb.jpg">Your browser does not support the video tag. <a href="Project%20Live%20Demo.mp4">Download Project Live Demo</a></video> |
+| <video src="https://github.com/user-attachments/assets/c873c555-69c9-441f-924f-d42481af7654" controls width="100%" poster="docs/assets/webui_thumb.jpg">Your browser does not support the video tag. <a href="WebUI%20Demo.mp4">Download WebUI Demo</a></video> | <video src="https://github.com/user-attachments/assets/f973721b-55df-40c5-a6d4-5f27f2a88da7" controls width="100%" poster="docs/assets/livedemo_thumb.jpg">Your browser does not support the video tag. <a href="Project%20Live%20Demo.mp4">Download Project Live Demo</a></video> |
 | *Live web portal calibration, volume control & stats* | *Touchless gesture control, LCD status & physical dispensing* |
 
 ---
