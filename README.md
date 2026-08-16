@@ -36,6 +36,15 @@ Hands-free water dispenser controlled by an ultrasonic gesture sensor, with a 16
 | Remove hand and stay away 3 s | Lock selected volume |
 | Wait 1 s after lock, then swipe | Start dispensing locked volume |
 
+### Live Action & Interface Preview
+
+| Web Portal Interface (`WebUI Demo.mp4`) | Hands-Free Gesture Demo (`Project Live Demo.mp4`) |
+| :---: | :---: |
+| <video src="WebUI%20Demo.mp4" controls width="100%"></video> | <video src="Project%20Live%20Demo.mp4" controls width="100%"></video> |
+| *Live web portal calibration, volume control & stats* | *Touchless gesture control, LCD feedback & physical dispensing* |
+
+---
+
 ```text
 IDLE
   | wave
