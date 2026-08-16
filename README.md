@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/f973721b-55df-40c5-a6d4-5f27f2a88da7
+
+
+
+https://github.com/user-attachments/assets/c873c555-69c9-441f-924f-d42481af7654
+
 # ESP32 Smart Touchless Water Dispenser
 
 Hands-free water dispenser controlled by an ultrasonic gesture sensor, with a 16x2 LCD status display and a Wi-Fi web portal for calibration, statistics, and remote control.
